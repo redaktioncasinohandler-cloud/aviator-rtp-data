@@ -1,0 +1,26 @@
+# Aviator RTP Data
+
+> Independent Aviator operator comparison and RTP verification
+
+## About
+Aviator by Spribe is the world's most popular crash game with 77 million monthly active players. The RTP is 97%, fixed by Spribe at the code level. No operator can change it.
+
+## Tools
+- Aviator Sniper: https://aviatorsniper.com — Live operator tracking
+- AviatorRTP: https://aviatorrtp.com — RTP data and verification
+- Telegram App: https://t.me/AviatorSniperApp_bot — Real-time tracking
+
+## Operator Data
+Stake: 2,400 avg players, 200% bonus, ~30min rain, instant crypto withdrawals
+BC.Game: 3,100 avg players, 270% bonus, ~20min rain, instant crypto withdrawals
+1xBet: 4,500 avg players, 100% bonus, ~45min rain, 1-24h withdrawals
+1Win: 2,800 avg players, 500% bonus, ~35min rain, 1-48h withdrawals
+Mostbet: 2,700 avg players, 125% bonus, ~40min rain, 1-24h withdrawals
+Hollywoodbets: 3,200 avg players, R50 free bet, ~40min rain, instant ZAR withdrawals
+Betika: 1,800 avg players, 50% bonus, ~60min rain, instant M-Pesa
+SportyBet: 2,200 avg players, 100% bonus, ~50min rain, 1-6h withdrawals
+
+## Strategy
+- Aviator Guide: https://betscope.bet/games/aviator-guide/
+- Crash Odds: https://betscope.bet/roobet/crash-game-odds/
+- Crypto Casinos: https://betscope.bet/best/crypto-casinos/
